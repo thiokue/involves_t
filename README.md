@@ -1,5 +1,3 @@
-# Respostas do Teste Involves
-
 ## 1) Descreva com suas palavras os principais conceitos abaixo:
 
 a) O que é um Data Warehouse?
@@ -148,3 +146,4 @@ Obs: Os dados de “Ponto Extra” estão categorizados na coluna TIPO_COLETA co
 
 - [FT_PONTO_EXTRA](./Transformations/FT_PONTO_EXTRA.ktr)
 - [FT_PONTO_EXTRA_AGREGADA](./Transformations/FT_PONTO_EXTRA_AGREGADA.ktr)
+
